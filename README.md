@@ -32,3 +32,7 @@ yo i'm Rauzzan M Fikri Dev and Networkimg Enginnering
 ![](https://github-contributor-stats.vercel.app/api?username=sntdashi&limit=5&theme=nord&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<img src="https://raw.githubusercontent.com/sntdashi/sntdashi/output/snake.svg" alt="Snake animation" />
+
+###
