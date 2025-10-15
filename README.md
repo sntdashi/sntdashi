@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 # 💫 About Me:
 yo i'm Rauzzan Muhammad Fikri \ Dev and Networkimg Enginnering
 
+![gif](https://i.pinimg.com/originals/f3/01/3e/f3013e356a3829c077c84c321798982f.gif)
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/rawrzn.bsky.social) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/CTy2U7nAAB) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rawrznf) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rawrznf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sntdashi) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@rawrzn) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:smtdashi@gmail.com) 
