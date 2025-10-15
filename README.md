@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-yo i'm Rauzzan M Fikri Dev and Networkimg Enginnering
+yo i'm Rauzzan Muhammad Fikri \ Dev and Networkimg Enginnering
 
 
 ## 🌐 Socials:
