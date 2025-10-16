@@ -34,7 +34,7 @@ yo 👋 My name is **Rauzzan Muhammad Fikri**
 ## 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=sntdashi&theme=darkhub&column=4&row=3&margin-w=21&margin-h=15&no-bg=true&no-frame=true&order=4" height="200" alt="trophy graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=sntdashi&locale=en&mode=daily&theme=blueberry&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=sntdashi&locale=en&mode=daily&theme=blueberry&hide_border=false&border_radius=5&order=3" height="160" alt="streak graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api?username=sntdashi&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=false&order=1" height="200" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sntdashi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=15&theme=blueberry&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div>
