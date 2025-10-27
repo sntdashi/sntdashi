@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ###
 
 # 💫 About Me:
-yoo 👋 My name is **Rauzzan Muhammad Fikri**
+yo 👋 My name is **Rauzzan Muhammad Fikri**
 > Developer and Network Enginnering
 
 ## 🌐 Socials:
