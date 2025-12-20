@@ -45,6 +45,6 @@ yo 👋 My name is **Rauzzan Muhammad Fikri**
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-<img src="https://raw.githubusercontent.com/sntdashi/sntdashi/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/sntdashi/sntdashi/output/snake.sv" alt="Snake animation" />
 
 ###
